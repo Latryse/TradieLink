@@ -1,0 +1,34 @@
+body {
+    width: 100%;
+    height: 100vh;
+    margin: 0;
+    font-family: Tahoma;
+    font-size: 16px;
+    padding: 5%;
+    background-color: rgb(246, 246, 246);
+}
+
+div {
+    width: 60vw;
+    max-width: 500px;
+    min-width: 300px;
+    margin: 0 auto;
+    padding-bottom: 2em;
+    background-color: white;
+    border: 2px solid rgb(226, 226, 226);
+    
+}
+
+.logo {
+    font-size: 32px;
+}
+
+.google {
+    width: 40px;
+    height: 40px;
+}
+
+label {
+    display: block;
+    margin: 0.5rem 0;
+}
